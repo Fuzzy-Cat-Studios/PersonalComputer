@@ -1,5 +1,5 @@
 {
-	"name": "roblox-ts-game",
+	"name": "Personal Computer",
 	"globIgnorePaths": [
 		"**/package.json",
 		"**/tsconfig.json"
