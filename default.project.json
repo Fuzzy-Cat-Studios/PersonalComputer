@@ -8,7 +8,7 @@
 		"$className": "DataModel",
 		"ServerScriptService": {
 			"$className": "ServerScriptService",
-			"TS": {
+			"Server": {
 				"$path": "out/server"
 			}
 		},
@@ -20,7 +20,7 @@
 					"$path": "node_modules/@rbxts"
 				}
 			},
-			"TS": {
+			"Shared": {
 				"$path": "out/shared"
 			}
 		},
